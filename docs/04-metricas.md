@@ -24,7 +24,8 @@ A avaliação pode ser feita de duas formas complementares:
 
 ## Exemplos de Cenários de Teste
 
-Crie testes simples para validar seu agente:
+<img width="1022" height="588" alt="image" src="https://github.com/user-attachments/assets/5b06e55b-f4bb-4735-83d5-72e0c8218358" />
+
 
 ### Teste 1: Consulta de gastos
 - **Pergunta:** "Quanto gastei com alimentação?"
